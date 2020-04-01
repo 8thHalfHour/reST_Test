@@ -1,0 +1,8 @@
+docutils
+rinoh-typeface-dejavuserif
+rinoh-typeface-texgyrecursor
+rinoh-typeface-texgyreheros
+rinoh-typeface-texgyrepagella
+rinohtype
+Sphinx
+sphinxcontrib-websupport
